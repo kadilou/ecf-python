@@ -1,9 +1,4 @@
 # ecf-python
-Le programme attelierpython sert a verifier si une addresse mail est bien une adresse francaise,
-Au debut nous avons commencé par importer la biblihoteque re pour les expressions reguliere,  
-apres nous avons 
-Ce programme utilise une expression régulière pour extraire toutes les adresses email dans le fichier texte, puis vérifie si chaque adresse se termine par ".fr" pour déterminer si elle est française ou non. Notez que ce n'est pas une méthode infaillible pour détecter les adresses email françaises, car il est possible qu'une adresse utilise un domaine autre que ".fr" mais reste néanmoins française.
-
 
 Ce programme est un script Python qui lit un fichier texte contenant des adresses e-mail, utilise une expression régulière pour extraire les adresses e-mail de ce fichier, puis vérifie si chaque adresse e-mail est française ou non.
 
